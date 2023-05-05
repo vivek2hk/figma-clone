@@ -46,7 +46,7 @@
     "graphql": "^16.6.0",
     "nestjs-console": "^8.0.0",
     "paper": "^0.12.17",
-    "next": "^13.3.4",
+    "next": "^13.4.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
     "passport-jwt": "^4.0.1",
