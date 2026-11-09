@@ -7257,10 +7257,10 @@ package-json-from-dist@^1.0.1:
   resolved "https://registry.yarnpkg.com/package-json-from-dist/-/package-json-from-dist-1.0.1.tgz#4f1471a010827a86f94cfd9b0727e36d267de505"
   integrity sha512-UEZIS3/by4OC8vL3P2dTXRETpebLI2NiI5vIrjaD/5UtrkFX/tNbwjTSRAGC/+7CAo2pIcBaRgWmcBBHcsaCIw==
 
-paper@^0.16.0:
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/paper/-/paper-0.16.0.tgz#27e1b5f17d1d0519b9e943484d5b85fa3e97026a"
-  integrity sha512-MVkNFA40Afe1HbOJfP1i/WBGrEBfo3e8qO/wniNyQbN5RdW+A5JpLxNCYaUk7aFCV1KMDSErmk7ri6tyJ8bJQA==
+paper@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/paper/-/paper-0.17.0.tgz#77bfbc692272a54be33211046ad6e157aa5aa85b"
+  integrity sha512-AWHQVUNScPN/swbCg0wwb2bTerMieraol76Fpn1s+7Zw7R6mMyI0QltMkj/XOS3Jv+9785q0p4eLsYggn63ZQw==
 
 parent-module@^1.0.0:
   version "1.0.1"
